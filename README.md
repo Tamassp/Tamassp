@@ -2,9 +2,9 @@
 <h3 align="center">I'm a Frontend Developer</h3>
 <h1></h1>
 
-- 🔭 I’m currently working on **my portfolio website ([Tamassp.github.io](https://tamassp.github.io/))**
+- 🔭 I’m currently working on **my portfolio website ([Tamassp.github.io](https://tamassp.github.io/))**, a **React App for music sheet creating** and a **VR app for learning geometry**
 
-- 🌱 I’m currently learning **Svelte, Tailwind, Jest, Gatsby**
+- 🌱 I’m currently learning **Svelte, Tailwind, Jest, as well as XR Technologies**
 
 <h1></h1>
 
