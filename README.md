@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my portfolio website ([Tamassp.github.io](https://tamassp.github.io/))**, a **React App for music sheet creating** and a **VR app for learning geometry**
 
-- 🌱 I’m currently learning **Svelte, Tailwind, Jest, as well as XR Technologies**
+- 🌱 I’m currently learning **Svelte, Tailwind, Jest, as well as XR Technologies (.NET, Unity)**
 
 <h1></h1>
 
